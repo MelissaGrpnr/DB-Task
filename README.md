@@ -5,6 +5,7 @@ TASK 1
 Step 1: Install Docker and Docker Compose
 
 Step 2: Create a Docker Compose File
+
 Create a file named docker-compose.yml. This Docker Compose file starts Zookeeper and Kafka. Zookeeper opens to the outside world on port 2181, while Kafka opens to the outside world on port 9092.
 
 Step 3: Starting Kafka and Zookeeper
